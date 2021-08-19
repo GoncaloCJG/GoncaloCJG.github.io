@@ -4,26 +4,15 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! My name is Gonçalo Gonçalves and I'm having a lots of fun building this thing up!
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Here it's where I'll write something nice about myself.
 
-There are currently two themes built on Poole:
+For now, I'll just say that I graduated college last month and I'm eager to learn Machine Learning and more specifically Deep Learning!
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+## Social Media
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+You can reach me on [Twitter](https://twitter.com/GCJGoncalves), [Github](https://github.com/GoncaloCJG) and [Linkedin](https://www.linkedin.com/in/gon%C3%A7alo-gon%C3%A7alves-6b4409200/)
 
 Thanks for reading!
