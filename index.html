@@ -1,33 +1,17 @@
 ---
-layout: default
-title: Home
+layout: page
+title: 
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<article class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+  <p>Hi, I'm Gonçalo! <br>
 
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div>
+  I'm a Medical Imaging and Radiotherapy Technician. Currently, I spent most of my time learning Machine Learning and Deep Learning specifically. <br>
+  
+  I'm fascinated by new and innovative ways that bring AI and Medicine together. I believe that in the future both worlds can benefit a lot from each other. <br>
+  
+  I love writing. Monthly, on the first day of the month, I publish a monthly update of the previous month to keep myself accountable.</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+</article>

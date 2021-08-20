@@ -5,7 +5,7 @@ title: Archive
 
 # Archive
 
-Soon.
+This is a new house. Soon it will have updates.
 
 <!---
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
