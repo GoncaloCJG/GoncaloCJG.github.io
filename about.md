@@ -1,18 +1,20 @@
 ---
 layout: page
-title: About
+title: 
 ---
 
-<p class="message">
-  Hey there! My name is Gonçalo Gonçalves and I'm having a lots of fun building this thing up!
-</p>
+<article class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
 
-Here it's where I'll write something nice about myself.
+  <p>Hi, I'm Gonçalo! <br>
+  <br>
+  I'm a Medical Imaging and Radiotherapy Technician. Currently, I spent most of my time learning Machine Learning and Deep Learning specifically. <br>
+  <br>
+  I'm fascinated by new and innovative ways that bring AI and Medicine together. I believe that in the future both worlds can benefit a lot from each other. <br>
+  <br>
+  I love writing. Monthly, on the first day of the month, I publish a monthly update of the previous month to keep myself accountable.<br>
+  <br>
+  You can reach me on <a href="https://twitter.com/GCJGoncalves">Twitter</a>, <a href="https://github.com/GoncaloCJG">Github</a> and <a href="https://www.linkedin.com/in/gon%C3%A7alo-gon%C3%A7alves-6b4409200/">Linkedin</a>.
+  </p>
 
-For now, I'll just say that I graduated college last month and I'm eager to learn Machine Learning and more specifically Deep Learning!
-
-## Social Media
-
-You can reach me on [Twitter](https://twitter.com/GCJGoncalves), [Github](https://github.com/GoncaloCJG) and [Linkedin](https://www.linkedin.com/in/gon%C3%A7alo-gon%C3%A7alves-6b4409200/)
-
-Thanks for reading!
+</article>
