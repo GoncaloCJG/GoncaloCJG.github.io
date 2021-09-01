@@ -14,7 +14,7 @@ title:
   <br>
   I'm fascinated by new and innovative ways that bring AI and Medicine together. I believe that in the future both worlds can benefit a lot from each other. <br>
   <br>
-  I love writing. Monthly, on the first day of the month, I publish a monthly update of the previous month to keep myself accountable.<br>
+  I love writing. Monthly, on the last day of the month, I publish a monthly update of the current month to keep myself accountable.<br>
   <br>
   You can reach me on <a href="https://twitter.com/GCJGoncalves">Twitter</a>, <a href="https://github.com/GoncaloCJG">Github</a> and <a href="https://www.linkedin.com/in/gon%C3%A7alo-gon%C3%A7alves-6b4409200/">Linkedin</a>.
   </p>
