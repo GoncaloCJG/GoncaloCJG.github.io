@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Beggining of Everything
+title: August 2021 - The Beggining of Everything
 ---
 
 # The beggining of my online portfolio
