@@ -3,6 +3,8 @@ layout: post
 title: August 2021 - The Beggining of Everything
 ---
 
+<hr>
+
 # The beggining of my online portfolio
 
 August was when everything started out. I created this, my online portfolio, and started writing a monthly update to show what I'm working on and how it is going on the given month.
