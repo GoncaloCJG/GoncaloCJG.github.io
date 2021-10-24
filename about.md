@@ -10,7 +10,7 @@ title:
 
   <p>Hi, I'm Gonçalo! <br>
   <br>
-  I'm a Medical Imaging and Radiotherapy Technician. Currently, I'm working at Cleerly as a Radiology Technician and about to start my Master's Degree in Biomedical Engineering at ISEL (Instituto Superior de Engenharia de Lisboa).<br>
+  I'm a Medical Imaging and Radiotherapy Technologist. Currently, I'm working at Cleerly as a Radiology Technologist and about to start my Master's Degree in Biomedical Engineering at ISEL (Instituto Superior de Engenharia de Lisboa).<br>
   <br>
   I'm fascinated by new and innovative ways that bring AI and Medicine together. I believe that in the future both worlds can benefit a lot from each other. <br>
   <br>
