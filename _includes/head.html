@@ -17,10 +17,10 @@
 
   {% seo title=false %}
 
-  {% if page.header-img %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+  {% if page.image %}
+    <meta property="og:image" content="path/to/post/image.png">
+  {% else %}
+    <meta property="og:image" content="path/to/page/image.png">
   {% endif %}
-
-  <meta property="og:description" content="{{ page.subtitle }}" />
   
 </head>
