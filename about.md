@@ -19,7 +19,7 @@ title:
   You can reach me on <a href="https://twitter.com/GCJGoncalves">Twitter</a>, <a href="https://github.com/GoncaloCJG">Github</a> and <a href="https://www.linkedin.com/in/gon%C3%A7alo-gon%C3%A7alves-6b4409200/">Linkedin</a>.<br>
   <br>
 
-  <i>Updated on 20 of February 2021.</i>
+  <i>Updated on February 20th, 2022</i>
   </p>
 
 </article>
