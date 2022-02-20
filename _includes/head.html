@@ -16,4 +16,11 @@
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ 'atom.xml' | relative_url }}">
 
   {% seo title=false %}
+
+  {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+  {% endif %}
+
+  <meta property="og:description" content="{{ page.subtitle }}" />
+  
 </head>
