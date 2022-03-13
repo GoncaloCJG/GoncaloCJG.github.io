@@ -1,6 +1,6 @@
 # Setup
 title: Gonçalo Gonçalves
-url: https://GoncaloCJG.github.io/about
+url: https://GoncaloCJG.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -49,3 +49,7 @@ nav:
 
   - title: Projects
     url: /projects
+
+collections:
+  projects: 
+    output: true
